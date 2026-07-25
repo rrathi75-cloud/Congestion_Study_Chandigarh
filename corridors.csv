@@ -1,0 +1,51 @@
+﻿corridor_id,corridor_name,direction,origin_lat,origin_lng,dest_lat,dest_lng,est_distance_km
+1,Madhya Marg: PGI Chowk ↔ Housing Board lights,A_to_B,30.7597,76.7752,30.7084,76.8372,8.5
+1,Madhya Marg: PGI Chowk ↔ Housing Board lights,B_to_A,30.7084,76.8372,30.7597,76.7752,8.8
+2,Udyog Path: PU Chowk ↔ Elante Mall,A_to_B,30.7523,76.7645,30.7111,76.8012,5.9
+2,Udyog Path: PU Chowk ↔ Elante Mall,B_to_A,30.7111,76.8012,30.7523,76.7645,5.9
+3,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,A_to_B,30.7515,76.7491,30.6916,76.8029,8.5
+3,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,B_to_A,30.6916,76.8029,30.7515,76.7491,8.7
+4,Shanti Path: Sector 38W ↔ Sector 31 Lights,A_to_B,30.7505,76.7336,30.6970,76.7774,7.4
+4,Shanti Path: Sector 38W ↔ Sector 31 Lights,B_to_A,30.6970,76.7774,30.7505,76.7336,7.6
+5,NH 5: Grain Market ↔ Sector 47 Chowk,A_to_B,30.7433,76.7222,30.6895,76.7665,7.4
+5,NH 5: Grain Market ↔ Sector 47 Chowk,B_to_A,30.6895,76.7665,30.7433,76.7222,7.5
+6,Vigyan Path: PEC Chowk ↔ Golf Club,A_to_B,30.7652,76.7874,30.7336,76.8153,4.5
+6,Vigyan Path: PEC Chowk ↔ Golf Club,B_to_A,30.7336,76.8153,30.7652,76.7874,4.5
+7,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,A_to_B,30.7623,76.7953,30.7443,76.8103,2.5
+7,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,B_to_A,30.7443,76.8103,30.7623,76.7953,2.5
+8,Madhya Marg: Khudda Lahora ↔ Matka Chowk,A_to_B,30.7747,76.7703,30.7469,76.7857,3.6
+8,Madhya Marg: Khudda Lahora ↔ Matka Chowk,B_to_A,30.7469,76.7857,30.7747,76.7703,3.9
+9,Madhya Marg: GMSH 16 ↔ Kalagram,A_to_B,30.7466,76.7860,30.7125,76.8218,5.2
+9,Madhya Marg: GMSH 16 ↔ Kalagram,B_to_A,30.7125,76.8218,30.7466,76.7860,5.5
+10,Udyog Path: Dhanas ↔ ISBT Sector 17,A_to_B,30.7694,76.7524,30.7365,76.7774,4.5
+10,Udyog Path: Dhanas ↔ ISBT Sector 17,B_to_A,30.7365,76.7774,30.7694,76.7524,5.4
+11,Udyog Path: ISBT Sector 17 ↔ Elante Mall,A_to_B,30.7335,76.7797,30.7112,76.8008,3.2
+11,Udyog Path: ISBT Sector 17 ↔ Elante Mall,B_to_A,30.7112,76.8008,30.7335,76.7797,3.5
+12,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,A_to_B,30.7859,76.7560,30.7333,76.7629,6.7
+12,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,B_to_A,30.7333,76.7629,30.7859,76.7560,6.9
+13,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,A_to_B,30.7331,76.7631,30.6780,76.8084,7.9
+13,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,B_to_A,30.6780,76.8084,30.7331,76.7631,8
+14,NH 5: Max Hospital ↔ ISBT Sector 43,A_to_B,30.7436,76.7220,30.7128,76.7459,4.2
+14,NH 5: Max Hospital ↔ ISBT Sector 43,B_to_A,30.7128,76.7459,30.7436,76.7220,4.4
+15,Sukhna Path: Golf Club ↔ Cycle Chowk,A_to_B,30.7357,76.8119,30.6975,76.7509,7.4
+15,Sukhna Path: Golf Club ↔ Cycle Chowk,B_to_A,30.6975,76.7509,30.7357,76.8119,7.3
+16,Sarovar Path: Sukhna Lake ↔ Burail Jail,A_to_B,30.7440,76.8106,30.7032,76.7458,7.8
+16,Sarovar Path: Sukhna Lake ↔ Burail Jail,B_to_A,30.7032,76.7458,30.7440,76.8106,7.8
+17,Himalaya Marg: Rock Garden ↔ ISBT 43,A_to_B,30.7497,76.8057,30.7124,76.7458,7.2
+17,Himalaya Marg: Rock Garden ↔ ISBT 43,B_to_A,30.7124,76.7458,30.7497,76.8057,7.3
+18,Jan Marg: High Court ↔ ISBT 17,A_to_B,30.7560,76.8005,30.7400,76.7741,3.2
+18,Jan Marg: High Court ↔ ISBT 17,B_to_A,30.7400,76.7741,30.7560,76.8005,3.1
+19,Jan Marg: ISBT 17 ↔ ISBT 43,A_to_B,30.7394,76.7740,30.7190,76.7404,4.1
+19,Jan Marg: ISBT 17 ↔ ISBT 43,B_to_A,30.7190,76.7404,30.7394,76.7740,4
+20,Vidya Path: PGI Chowk ↔ Fountain Chowk,A_to_B,30.7590,76.7758,30.7307,76.7312,5.5
+20,Vidya Path: PGI Chowk ↔ Fountain Chowk,B_to_A,30.7307,76.7312,30.7590,76.7758,5.5
+21,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,A_to_B,30.7180,76.8125,30.7040,76.7901,2.7
+21,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,B_to_A,30.7040,76.7901,30.7180,76.8125,2.8
+22,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,A_to_B,30.7235,76.8067,30.7091,76.7837,3
+22,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,B_to_A,30.7091,76.7837,30.7235,76.8067,2.9
+23,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,A_to_B,30.7622,76.7953,30.7274,76.7338,7.3
+23,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,B_to_A,30.7274,76.7338,30.7622,76.7953,7.2
+24,Madhya Marg: Sector 17 ↔ Railway Station,A_to_B,30.7039,76.8191,30.7409,76.7908,5.4
+24,Madhya Marg: Sector 17 ↔ Railway Station,B_to_A,30.7409,76.7908,30.7039,76.8191,5.4
+25,Paschim Marg: Sector 25 ↔ Sector 56,A_to_B,30.7580,76.7600,30.7372,76.7266,3.9
+25,Paschim Marg: Sector 25 ↔ Sector 56,B_to_A,30.7372,76.7266,30.7580,76.7600,4
