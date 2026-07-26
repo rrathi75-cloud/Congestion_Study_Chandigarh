@@ -90,9 +90,9 @@ dest_layer = pdk.Layer(
 )
 
 view_state = pdk.ViewState(
-    longitude=85.13,
-    latitude=25.605,
-    zoom=11.6,
+    longitude=76.78,
+    latitude=30.73,
+    zoom=11.2,
     pitch=0,
     bearing=0,
 )

@@ -328,12 +328,19 @@ with col2:
         language="text",
     )
     st.markdown("**Audit collection window:**")
+    try:
+        start_text = f"{AUDIT_WINDOW_START.date()} 00:00 IST"
+        end_text = f"{AUDIT_WINDOW_END.date()} 23:59 IST"
+    except Exception:
+        start_text = "n/a"
+        end_text = "n/a"
+
     st.code(
-        f"start: {AUDIT_WINDOW_START.date()} 00:00 IST\n"
-        f"end:   {AUDIT_WINDOW_END.date()} 23:59 IST\n"
+        f"start: {start_text}\n"
+        f"end:   {end_text}\n"
         f"polling: every 30 minutes\n"
-        f"OD pairs: 50 (25 corridors × 2 directions) from 2026-07-27 15:30 IST;\n"
-        language="text"
+        f"OD pairs: 50 (25 corridors × 2 directions) from 2026-07-27 15:30 IST;\n",
+        language="text",
     )
 
 st.markdown(

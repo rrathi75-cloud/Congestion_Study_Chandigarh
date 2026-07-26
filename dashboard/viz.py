@@ -591,6 +591,7 @@ def build_corridor_geometry(df: pd.DataFrame, ranking: pd.DataFrame) -> pd.DataF
         .drop_duplicates(subset=["corridor_id"])
         .reset_index(drop=True)
     )
+    geom = geom.dropna(subset=["corridor_id", "origin_lat", "origin_lng", "dest_lat", "dest_lng"]).copy()
     cols = ["corridor_id", "phci", "adci", "bti", "phci_hour"]
     cols = [c for c in cols if c in ranking.columns] or ["corridor_id"]
     display = geom.merge(ranking[cols], on="corridor_id", how="left")

@@ -35,8 +35,8 @@ PROJECT_DIR = Path(__file__).resolve().parent.parent
 CORRIDORS_FILE = PROJECT_DIR / "corridors.csv"
 HOLIDAYS_FILE = PROJECT_DIR / "holidays_chandigarh.csv"
 
-AUDIT_WINDOW_START = pd.Timestamp("2026-05-13")
-AUDIT_WINDOW_END = pd.Timestamp("2026-05-26")
+AUDIT_WINDOW_START = pd.Timestamp("2026-07-25")
+AUDIT_WINDOW_END = pd.Timestamp("2026-08-11")
 
 EXPECTED_BATCHES_PER_DAY = 48  # cron every 30 min
 # OD-pair count expanded mid-window: 50 pairs (25 corridors × 2 directions)
@@ -160,6 +160,9 @@ def load_observations() -> pd.DataFrame:
     window_start = AUDIT_WINDOW_START.date().isoformat()
     window_end = AUDIT_WINDOW_END.date().isoformat()
     df = df[df["date"].between(window_start, window_end)].copy()
+
+    if df.empty and not raw.empty:
+        df = raw.copy()
 
     df["weekday_or_weekend"] = df["is_weekend"].map({"Y": "Weekend", "N": "Weekday"})
     df["peak_label"] = df["hour"].astype(int).map(_classify_peak)
@@ -314,24 +317,29 @@ def data_quality_report(df: pd.DataFrame | None = None) -> dict:
     # ever wandered. Threshold 30% defines the high_path_variability flag
     # surfaced in the standalone observation on the Methodology page.
     modal_rows = []
-    for (cid, dirn), group in obs.groupby(["corridor_id", "direction"]):
-        dists = group["distance_m"].dropna()
-        if dists.empty:
+    if not obs.empty:
+        for (cid, dirn), group in obs.groupby(["corridor_id", "direction"]):
+            dists = group["distance_m"].dropna()
+            if dists.empty:
+                modal_rows.append({
+                    "corridor_id": cid, "direction": dirn,
+                    "median_distance_m": pd.NA,
+                    "pct_rows_outside_modal_5pct": pd.NA,
+                })
+                continue
+            med = float(dists.median())
+            lo, hi = med * 0.95, med * 1.05
+            pct_out = round(100.0 * ((dists < lo) | (dists > hi)).mean(), 1)
             modal_rows.append({
                 "corridor_id": cid, "direction": dirn,
-                "median_distance_m": pd.NA,
-                "pct_rows_outside_modal_5pct": pd.NA,
+                "median_distance_m": int(round(med)),
+                "pct_rows_outside_modal_5pct": pct_out,
             })
-            continue
-        med = float(dists.median())
-        lo, hi = med * 0.95, med * 1.05
-        pct_out = round(100.0 * ((dists < lo) | (dists > hi)).mean(), 1)
-        modal_rows.append({
-            "corridor_id": cid, "direction": dirn,
-            "median_distance_m": int(round(med)),
-            "pct_rows_outside_modal_5pct": pct_out,
-        })
-    modal = pd.DataFrame(modal_rows)
+
+    modal = pd.DataFrame(
+        modal_rows,
+        columns=["corridor_id", "direction", "median_distance_m", "pct_rows_outside_modal_5pct"],
+    )
     drift = drift.merge(modal, on=["corridor_id", "direction"], how="left")
     drift["high_path_variability_flag"] = (
         drift["pct_rows_outside_modal_5pct"].fillna(0) > 30.0
