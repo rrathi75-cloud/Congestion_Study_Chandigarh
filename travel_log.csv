@@ -1,0 +1,301 @@
+timestamp_ist,date,time,day_of_week,hour,is_weekend,corridor_id,corridor_name,direction,distance_m,duration_traffic_s,duration_freeflow_s,congestion_ratio,api_status,error_msg
+2026-07-25 13:12:40,2026-07-25,13:12:40,Saturday,13,Y,,Madhya Marg: PGI Chowk ↔ Housing Board lights,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:41,2026-07-25,13:12:41,Saturday,13,Y,,Madhya Marg: PGI Chowk ↔ Housing Board lights,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:41,2026-07-25,13:12:41,Saturday,13,Y,,Udyog Path: PU Chowk ↔ Elante Mall,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:42,2026-07-25,13:12:42,Saturday,13,Y,,Udyog Path: PU Chowk ↔ Elante Mall,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:42,2026-07-25,13:12:42,Saturday,13,Y,,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:42,2026-07-25,13:12:42,Saturday,13,Y,,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:43,2026-07-25,13:12:43,Saturday,13,Y,,Shanti Path: Sector 38W ↔ Sector 31 Lights,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:43,2026-07-25,13:12:43,Saturday,13,Y,,Shanti Path: Sector 38W ↔ Sector 31 Lights,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:43,2026-07-25,13:12:43,Saturday,13,Y,,NH 5: Grain Market ↔ Sector 47 Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:44,2026-07-25,13:12:44,Saturday,13,Y,,NH 5: Grain Market ↔ Sector 47 Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:44,2026-07-25,13:12:44,Saturday,13,Y,,Vigyan Path: PEC Chowk ↔ Golf Club,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:45,2026-07-25,13:12:45,Saturday,13,Y,,Vigyan Path: PEC Chowk ↔ Golf Club,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:45,2026-07-25,13:12:45,Saturday,13,Y,,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:45,2026-07-25,13:12:45,Saturday,13,Y,,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:46,2026-07-25,13:12:46,Saturday,13,Y,,Madhya Marg: Khudda Lahora ↔ Matka Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:46,2026-07-25,13:12:46,Saturday,13,Y,,Madhya Marg: Khudda Lahora ↔ Matka Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:47,2026-07-25,13:12:47,Saturday,13,Y,,Madhya Marg: GMSH 16 ↔ Kalagram,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:47,2026-07-25,13:12:47,Saturday,13,Y,,Madhya Marg: GMSH 16 ↔ Kalagram,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:47,2026-07-25,13:12:47,Saturday,13,Y,,Udyog Path: Dhanas ↔ ISBT Sector 17,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:48,2026-07-25,13:12:48,Saturday,13,Y,,Udyog Path: Dhanas ↔ ISBT Sector 17,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:48,2026-07-25,13:12:48,Saturday,13,Y,,Udyog Path: ISBT Sector 17 ↔ Elante Mall,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:49,2026-07-25,13:12:49,Saturday,13,Y,,Udyog Path: ISBT Sector 17 ↔ Elante Mall,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:49,2026-07-25,13:12:49,Saturday,13,Y,,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:50,2026-07-25,13:12:50,Saturday,13,Y,,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:50,2026-07-25,13:12:50,Saturday,13,Y,,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:50,2026-07-25,13:12:50,Saturday,13,Y,,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:51,2026-07-25,13:12:51,Saturday,13,Y,,NH 5: Max Hospital ↔ ISBT Sector 43,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:51,2026-07-25,13:12:51,Saturday,13,Y,,NH 5: Max Hospital ↔ ISBT Sector 43,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:52,2026-07-25,13:12:52,Saturday,13,Y,,Sukhna Path: Golf Club ↔ Cycle Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:52,2026-07-25,13:12:52,Saturday,13,Y,,Sukhna Path: Golf Club ↔ Cycle Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:53,2026-07-25,13:12:53,Saturday,13,Y,,Sarovar Path: Sukhna Lake ↔ Burail Jail,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:53,2026-07-25,13:12:53,Saturday,13,Y,,Sarovar Path: Sukhna Lake ↔ Burail Jail,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:54,2026-07-25,13:12:54,Saturday,13,Y,,Himalaya Marg: Rock Garden ↔ ISBT 43,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:54,2026-07-25,13:12:54,Saturday,13,Y,,Himalaya Marg: Rock Garden ↔ ISBT 43,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:55,2026-07-25,13:12:55,Saturday,13,Y,,Jan Marg: High Court ↔ ISBT 17,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:55,2026-07-25,13:12:55,Saturday,13,Y,,Jan Marg: High Court ↔ ISBT 17,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:56,2026-07-25,13:12:56,Saturday,13,Y,,Jan Marg: ISBT 17 ↔ ISBT 43,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:56,2026-07-25,13:12:56,Saturday,13,Y,,Jan Marg: ISBT 17 ↔ ISBT 43,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:57,2026-07-25,13:12:57,Saturday,13,Y,,Vidya Path: PGI Chowk ↔ Fountain Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:57,2026-07-25,13:12:57,Saturday,13,Y,,Vidya Path: PGI Chowk ↔ Fountain Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:58,2026-07-25,13:12:58,Saturday,13,Y,,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:58,2026-07-25,13:12:58,Saturday,13,Y,,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:58,2026-07-25,13:12:58,Saturday,13,Y,,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:59,2026-07-25,13:12:59,Saturday,13,Y,,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:12:59,2026-07-25,13:12:59,Saturday,13,Y,,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:13:00,2026-07-25,13:13:00,Saturday,13,Y,,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:13:00,2026-07-25,13:13:00,Saturday,13,Y,,Madhya Marg: Sector 17 ↔ Railway Station,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:13:01,2026-07-25,13:13:01,Saturday,13,Y,,Madhya Marg: Sector 17 ↔ Railway Station,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:13:01,2026-07-25,13:13:01,Saturday,13,Y,,Paschim Marg: Sector 25 ↔ Sector 56,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:13:02,2026-07-25,13:13:02,Saturday,13,Y,,Paschim Marg: Sector 25 ↔ Sector 56,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:25:37,2026-07-25,13:25:37,Saturday,13,Y,,Madhya Marg: PGI Chowk ↔ Housing Board lights,A_to_B,11756,1370,1347,1.017,OK,
+2026-07-25 13:25:38,2026-07-25,13:25:38,Saturday,13,Y,,Madhya Marg: PGI Chowk ↔ Housing Board lights,B_to_A,8853,1255,1223,1.026,OK,
+2026-07-25 13:25:38,2026-07-25,13:25:38,Saturday,13,Y,,Udyog Path: PU Chowk ↔ Elante Mall,A_to_B,7111,1047,991,1.057,OK,
+2026-07-25 13:25:39,2026-07-25,13:25:39,Saturday,13,Y,,Udyog Path: PU Chowk ↔ Elante Mall,B_to_A,8051,1141,1091,1.046,OK,
+2026-07-25 13:25:39,2026-07-25,13:25:39,Saturday,13,Y,,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,A_to_B,8610,1464,1261,1.161,OK,
+2026-07-25 13:25:39,2026-07-25,13:25:39,Saturday,13,Y,,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,B_to_A,9083,1537,1481,1.038,OK,
+2026-07-25 13:25:40,2026-07-25,13:25:40,Saturday,13,Y,,Shanti Path: Sector 38W ↔ Sector 31 Lights,A_to_B,7418,977,881,1.109,OK,
+2026-07-25 13:25:40,2026-07-25,13:25:40,Saturday,13,Y,,Shanti Path: Sector 38W ↔ Sector 31 Lights,B_to_A,7590,1073,937,1.145,OK,
+2026-07-25 13:25:41,2026-07-25,13:25:41,Saturday,13,Y,,NH 5: Grain Market ↔ Sector 47 Chowk,A_to_B,7596,912,930,0.981,OK,
+2026-07-25 13:25:41,2026-07-25,13:25:41,Saturday,13,Y,,NH 5: Grain Market ↔ Sector 47 Chowk,B_to_A,7551,907,972,0.933,OK,
+2026-07-25 13:25:42,2026-07-25,13:25:42,Saturday,13,Y,,Vigyan Path: PEC Chowk ↔ Golf Club,A_to_B,4491,467,472,0.989,OK,
+2026-07-25 13:25:42,2026-07-25,13:25:42,Saturday,13,Y,,Vigyan Path: PEC Chowk ↔ Golf Club,B_to_A,4518,499,525,0.95,OK,
+2026-07-25 13:25:42,2026-07-25,13:25:42,Saturday,13,Y,,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,A_to_B,2481,261,274,0.953,OK,
+2026-07-25 13:25:43,2026-07-25,13:25:43,Saturday,13,Y,,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,B_to_A,3144,407,423,0.962,OK,
+2026-07-25 13:25:43,2026-07-25,13:25:43,Saturday,13,Y,,Madhya Marg: Khudda Lahora ↔ Matka Chowk,A_to_B,4208,610,600,1.017,OK,
+2026-07-25 13:25:44,2026-07-25,13:25:44,Saturday,13,Y,,Madhya Marg: Khudda Lahora ↔ Matka Chowk,B_to_A,3931,553,529,1.045,OK,
+2026-07-25 13:25:44,2026-07-25,13:25:44,Saturday,13,Y,,Madhya Marg: GMSH 16 ↔ Kalagram,A_to_B,5231,823,744,1.106,OK,
+2026-07-25 13:25:45,2026-07-25,13:25:45,Saturday,13,Y,,Madhya Marg: GMSH 16 ↔ Kalagram,B_to_A,7158,766,822,0.932,OK,
+2026-07-25 13:25:45,2026-07-25,13:25:45,Saturday,13,Y,,Udyog Path: Dhanas ↔ ISBT Sector 17,A_to_B,4785,762,737,1.034,OK,
+2026-07-25 13:25:46,2026-07-25,13:25:46,Saturday,13,Y,,Udyog Path: Dhanas ↔ ISBT Sector 17,B_to_A,5507,912,919,0.992,OK,
+2026-07-25 13:25:46,2026-07-25,13:25:46,Saturday,13,Y,,Udyog Path: ISBT Sector 17 ↔ Elante Mall,A_to_B,3274,396,383,1.034,OK,
+2026-07-25 13:25:47,2026-07-25,13:25:47,Saturday,13,Y,,Udyog Path: ISBT Sector 17 ↔ Elante Mall,B_to_A,3428,470,451,1.042,OK,
+2026-07-25 13:25:47,2026-07-25,13:25:47,Saturday,13,Y,,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,A_to_B,6720,915,894,1.023,OK,
+2026-07-25 13:25:47,2026-07-25,13:25:47,Saturday,13,Y,,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,B_to_A,7109,1004,950,1.057,OK,
+2026-07-25 13:25:48,2026-07-25,13:25:48,Saturday,13,Y,,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,A_to_B,7722,1333,1090,1.223,OK,
+2026-07-25 13:25:48,2026-07-25,13:25:48,Saturday,13,Y,,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,B_to_A,7973,1241,1122,1.106,OK,
+2026-07-25 13:25:49,2026-07-25,13:25:49,Saturday,13,Y,,NH 5: Max Hospital ↔ ISBT Sector 43,A_to_B,4206,497,503,0.988,OK,
+2026-07-25 13:25:49,2026-07-25,13:25:49,Saturday,13,Y,,NH 5: Max Hospital ↔ ISBT Sector 43,B_to_A,5445,650,667,0.975,OK,
+2026-07-25 13:25:50,2026-07-25,13:25:50,Saturday,13,Y,,Sukhna Path: Golf Club ↔ Cycle Chowk,A_to_B,7421,1068,1083,0.986,OK,
+2026-07-25 13:25:50,2026-07-25,13:25:50,Saturday,13,Y,,Sukhna Path: Golf Club ↔ Cycle Chowk,B_to_A,7321,1092,1080,1.011,OK,
+2026-07-25 13:25:50,2026-07-25,13:25:50,Saturday,13,Y,,Sarovar Path: Sukhna Lake ↔ Burail Jail,A_to_B,7816,1084,1066,1.017,OK,
+2026-07-25 13:25:51,2026-07-25,13:25:51,Saturday,13,Y,,Sarovar Path: Sukhna Lake ↔ Burail Jail,B_to_A,7928,1200,1084,1.107,OK,
+2026-07-25 13:25:51,2026-07-25,13:25:51,Saturday,13,Y,,Himalaya Marg: Rock Garden ↔ ISBT 43,A_to_B,8803,1111,1097,1.013,OK,
+2026-07-25 13:25:52,2026-07-25,13:25:52,Saturday,13,Y,,Himalaya Marg: Rock Garden ↔ ISBT 43,B_to_A,8947,1130,1132,0.998,OK,
+2026-07-25 13:25:52,2026-07-25,13:25:52,Saturday,13,Y,,Jan Marg: High Court ↔ ISBT 17,A_to_B,3334,382,390,0.979,OK,
+2026-07-25 13:25:53,2026-07-25,13:25:53,Saturday,13,Y,,Jan Marg: High Court ↔ ISBT 17,B_to_A,3132,303,337,0.899,OK,
+2026-07-25 13:25:53,2026-07-25,13:25:53,Saturday,13,Y,,Jan Marg: ISBT 17 ↔ ISBT 43,A_to_B,4115,602,568,1.06,OK,
+2026-07-25 13:25:54,2026-07-25,13:25:54,Saturday,13,Y,,Jan Marg: ISBT 17 ↔ ISBT 43,B_to_A,4233,590,579,1.019,OK,
+2026-07-25 13:25:54,2026-07-25,13:25:54,Saturday,13,Y,,Vidya Path: PGI Chowk ↔ Fountain Chowk,A_to_B,5475,757,714,1.06,OK,
+2026-07-25 13:25:55,2026-07-25,13:25:55,Saturday,13,Y,,Vidya Path: PGI Chowk ↔ Fountain Chowk,B_to_A,5474,754,716,1.053,OK,
+2026-07-25 13:25:55,2026-07-25,13:25:55,Saturday,13,Y,,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,A_to_B,2620,463,411,1.127,OK,
+2026-07-25 13:25:55,2026-07-25,13:25:55,Saturday,13,Y,,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,B_to_A,2611,534,436,1.225,OK,
+2026-07-25 13:25:56,2026-07-25,13:25:56,Saturday,13,Y,,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,A_to_B,2939,408,414,0.986,OK,
+2026-07-25 13:25:56,2026-07-25,13:25:56,Saturday,13,Y,,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,B_to_A,2756,403,361,1.116,OK,
+2026-07-25 13:25:57,2026-07-25,13:25:57,Saturday,13,Y,,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,A_to_B,7398,930,883,1.053,OK,
+2026-07-25 13:25:57,2026-07-25,13:25:57,Saturday,13,Y,,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,B_to_A,7220,844,830,1.017,OK,
+2026-07-25 13:25:57,2026-07-25,13:25:57,Saturday,13,Y,,Madhya Marg: Sector 17 ↔ Railway Station,A_to_B,7206,956,945,1.012,OK,
+2026-07-25 13:25:58,2026-07-25,13:25:58,Saturday,13,Y,,Madhya Marg: Sector 17 ↔ Railway Station,B_to_A,7747,951,1031,0.922,OK,
+2026-07-25 13:25:58,2026-07-25,13:25:58,Saturday,13,Y,,Paschim Marg: Sector 25 ↔ Sector 56,A_to_B,4090,566,535,1.058,OK,
+2026-07-25 13:25:59,2026-07-25,13:25:59,Saturday,13,Y,,Paschim Marg: Sector 25 ↔ Sector 56,B_to_A,3940,497,493,1.008,OK,
+2026-07-25 13:56:23,2026-07-25,13:56:23,Saturday,13,Y,,Madhya Marg: PGI Chowk ↔ Housing Board lights,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:23,2026-07-25,13:56:23,Saturday,13,Y,,Madhya Marg: PGI Chowk ↔ Housing Board lights,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:24,2026-07-25,13:56:24,Saturday,13,Y,,Udyog Path: PU Chowk ↔ Elante Mall,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:24,2026-07-25,13:56:24,Saturday,13,Y,,Udyog Path: PU Chowk ↔ Elante Mall,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:24,2026-07-25,13:56:24,Saturday,13,Y,,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:25,2026-07-25,13:56:25,Saturday,13,Y,,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:25,2026-07-25,13:56:25,Saturday,13,Y,,Shanti Path: Sector 38W ↔ Sector 31 Lights,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:26,2026-07-25,13:56:26,Saturday,13,Y,,Shanti Path: Sector 38W ↔ Sector 31 Lights,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:26,2026-07-25,13:56:26,Saturday,13,Y,,NH 5: Grain Market ↔ Sector 47 Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:26,2026-07-25,13:56:26,Saturday,13,Y,,NH 5: Grain Market ↔ Sector 47 Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:27,2026-07-25,13:56:27,Saturday,13,Y,,Vigyan Path: PEC Chowk ↔ Golf Club,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:27,2026-07-25,13:56:27,Saturday,13,Y,,Vigyan Path: PEC Chowk ↔ Golf Club,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:28,2026-07-25,13:56:28,Saturday,13,Y,,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:28,2026-07-25,13:56:28,Saturday,13,Y,,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:29,2026-07-25,13:56:29,Saturday,13,Y,,Madhya Marg: Khudda Lahora ↔ Matka Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:29,2026-07-25,13:56:29,Saturday,13,Y,,Madhya Marg: Khudda Lahora ↔ Matka Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:30,2026-07-25,13:56:30,Saturday,13,Y,,Madhya Marg: GMSH 16 ↔ Kalagram,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:30,2026-07-25,13:56:30,Saturday,13,Y,,Madhya Marg: GMSH 16 ↔ Kalagram,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:31,2026-07-25,13:56:31,Saturday,13,Y,,Udyog Path: Dhanas ↔ ISBT Sector 17,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:31,2026-07-25,13:56:31,Saturday,13,Y,,Udyog Path: Dhanas ↔ ISBT Sector 17,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:32,2026-07-25,13:56:32,Saturday,13,Y,,Udyog Path: ISBT Sector 17 ↔ Elante Mall,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:32,2026-07-25,13:56:32,Saturday,13,Y,,Udyog Path: ISBT Sector 17 ↔ Elante Mall,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:33,2026-07-25,13:56:33,Saturday,13,Y,,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:33,2026-07-25,13:56:33,Saturday,13,Y,,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:34,2026-07-25,13:56:34,Saturday,13,Y,,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:34,2026-07-25,13:56:34,Saturday,13,Y,,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:34,2026-07-25,13:56:34,Saturday,13,Y,,NH 5: Max Hospital ↔ ISBT Sector 43,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:35,2026-07-25,13:56:35,Saturday,13,Y,,NH 5: Max Hospital ↔ ISBT Sector 43,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:35,2026-07-25,13:56:35,Saturday,13,Y,,Sukhna Path: Golf Club ↔ Cycle Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:36,2026-07-25,13:56:36,Saturday,13,Y,,Sukhna Path: Golf Club ↔ Cycle Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:36,2026-07-25,13:56:36,Saturday,13,Y,,Sarovar Path: Sukhna Lake ↔ Burail Jail,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:37,2026-07-25,13:56:37,Saturday,13,Y,,Sarovar Path: Sukhna Lake ↔ Burail Jail,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:37,2026-07-25,13:56:37,Saturday,13,Y,,Himalaya Marg: Rock Garden ↔ ISBT 43,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:37,2026-07-25,13:56:37,Saturday,13,Y,,Himalaya Marg: Rock Garden ↔ ISBT 43,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:38,2026-07-25,13:56:38,Saturday,13,Y,,Jan Marg: High Court ↔ ISBT 17,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:38,2026-07-25,13:56:38,Saturday,13,Y,,Jan Marg: High Court ↔ ISBT 17,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:39,2026-07-25,13:56:39,Saturday,13,Y,,Jan Marg: ISBT 17 ↔ ISBT 43,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:39,2026-07-25,13:56:39,Saturday,13,Y,,Jan Marg: ISBT 17 ↔ ISBT 43,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:39,2026-07-25,13:56:39,Saturday,13,Y,,Vidya Path: PGI Chowk ↔ Fountain Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:40,2026-07-25,13:56:40,Saturday,13,Y,,Vidya Path: PGI Chowk ↔ Fountain Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:40,2026-07-25,13:56:40,Saturday,13,Y,,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:41,2026-07-25,13:56:41,Saturday,13,Y,,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:41,2026-07-25,13:56:41,Saturday,13,Y,,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:42,2026-07-25,13:56:42,Saturday,13,Y,,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:42,2026-07-25,13:56:42,Saturday,13,Y,,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:43,2026-07-25,13:56:43,Saturday,13,Y,,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:43,2026-07-25,13:56:43,Saturday,13,Y,,Madhya Marg: Sector 17 ↔ Railway Station,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:44,2026-07-25,13:56:44,Saturday,13,Y,,Madhya Marg: Sector 17 ↔ Railway Station,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:44,2026-07-25,13:56:44,Saturday,13,Y,,Paschim Marg: Sector 25 ↔ Sector 56,A_to_B,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 13:56:45,2026-07-25,13:56:45,Saturday,13,Y,,Paschim Marg: Sector 25 ↔ Sector 56,B_to_A,,,,,FAIL,"HTTP 400: {   ""error"": {     ""code"": 400,     ""message"": ""Timestamp must be set to a future time."",     ""status"": ""INVALID_ARGUMENT""   } }"
+2026-07-25 14:00:24,2026-07-25,14:00:24,Saturday,14,Y,,Madhya Marg: PGI Chowk ↔ Housing Board lights,A_to_B,11756,1373,1347,1.019,OK,
+2026-07-25 14:00:25,2026-07-25,14:00:25,Saturday,14,Y,,Madhya Marg: PGI Chowk ↔ Housing Board lights,B_to_A,8853,1266,1223,1.035,OK,
+2026-07-25 14:00:25,2026-07-25,14:00:25,Saturday,14,Y,,Udyog Path: PU Chowk ↔ Elante Mall,A_to_B,7111,1038,991,1.047,OK,
+2026-07-25 14:00:26,2026-07-25,14:00:26,Saturday,14,Y,,Udyog Path: PU Chowk ↔ Elante Mall,B_to_A,8051,1162,1091,1.065,OK,
+2026-07-25 14:00:26,2026-07-25,14:00:26,Saturday,14,Y,,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,A_to_B,8610,1564,1261,1.24,OK,
+2026-07-25 14:00:27,2026-07-25,14:00:27,Saturday,14,Y,,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,B_to_A,9083,1651,1512,1.092,OK,
+2026-07-25 14:00:27,2026-07-25,14:00:27,Saturday,14,Y,,Shanti Path: Sector 38W ↔ Sector 31 Lights,A_to_B,7418,954,881,1.083,OK,
+2026-07-25 14:00:28,2026-07-25,14:00:28,Saturday,14,Y,,Shanti Path: Sector 38W ↔ Sector 31 Lights,B_to_A,7590,1080,937,1.153,OK,
+2026-07-25 14:00:28,2026-07-25,14:00:28,Saturday,14,Y,,NH 5: Grain Market ↔ Sector 47 Chowk,A_to_B,7596,938,930,1.009,OK,
+2026-07-25 14:00:28,2026-07-25,14:00:28,Saturday,14,Y,,NH 5: Grain Market ↔ Sector 47 Chowk,B_to_A,7551,944,972,0.971,OK,
+2026-07-25 14:00:29,2026-07-25,14:00:29,Saturday,14,Y,,Vigyan Path: PEC Chowk ↔ Golf Club,A_to_B,4491,459,472,0.972,OK,
+2026-07-25 14:00:29,2026-07-25,14:00:29,Saturday,14,Y,,Vigyan Path: PEC Chowk ↔ Golf Club,B_to_A,4518,502,525,0.956,OK,
+2026-07-25 14:00:30,2026-07-25,14:00:30,Saturday,14,Y,,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,A_to_B,2481,264,274,0.964,OK,
+2026-07-25 14:00:30,2026-07-25,14:00:30,Saturday,14,Y,,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,B_to_A,3144,404,423,0.955,OK,
+2026-07-25 14:00:31,2026-07-25,14:00:31,Saturday,14,Y,,Madhya Marg: Khudda Lahora ↔ Matka Chowk,A_to_B,4208,643,600,1.072,OK,
+2026-07-25 14:00:31,2026-07-25,14:00:31,Saturday,14,Y,,Madhya Marg: Khudda Lahora ↔ Matka Chowk,B_to_A,3931,544,529,1.028,OK,
+2026-07-25 14:00:32,2026-07-25,14:00:32,Saturday,14,Y,,Madhya Marg: GMSH 16 ↔ Kalagram,A_to_B,5231,852,744,1.145,OK,
+2026-07-25 14:00:32,2026-07-25,14:00:32,Saturday,14,Y,,Madhya Marg: GMSH 16 ↔ Kalagram,B_to_A,7158,792,822,0.964,OK,
+2026-07-25 14:00:33,2026-07-25,14:00:33,Saturday,14,Y,,Udyog Path: Dhanas ↔ ISBT Sector 17,A_to_B,4785,766,737,1.039,OK,
+2026-07-25 14:00:33,2026-07-25,14:00:33,Saturday,14,Y,,Udyog Path: Dhanas ↔ ISBT Sector 17,B_to_A,5507,937,919,1.02,OK,
+2026-07-25 14:00:33,2026-07-25,14:00:33,Saturday,14,Y,,Udyog Path: ISBT Sector 17 ↔ Elante Mall,A_to_B,3274,404,383,1.055,OK,
+2026-07-25 14:00:34,2026-07-25,14:00:34,Saturday,14,Y,,Udyog Path: ISBT Sector 17 ↔ Elante Mall,B_to_A,3428,482,451,1.069,OK,
+2026-07-25 14:00:34,2026-07-25,14:00:34,Saturday,14,Y,,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,A_to_B,6720,900,894,1.007,OK,
+2026-07-25 14:00:35,2026-07-25,14:00:35,Saturday,14,Y,,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,B_to_A,7109,951,950,1.001,OK,
+2026-07-25 14:00:35,2026-07-25,14:00:35,Saturday,14,Y,,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,A_to_B,7739,1362,1103,1.235,OK,
+2026-07-25 14:00:36,2026-07-25,14:00:36,Saturday,14,Y,,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,B_to_A,7973,1349,1153,1.17,OK,
+2026-07-25 14:00:36,2026-07-25,14:00:36,Saturday,14,Y,,NH 5: Max Hospital ↔ ISBT Sector 43,A_to_B,4206,494,503,0.982,OK,
+2026-07-25 14:00:37,2026-07-25,14:00:37,Saturday,14,Y,,NH 5: Max Hospital ↔ ISBT Sector 43,B_to_A,5445,634,667,0.951,OK,
+2026-07-25 14:00:37,2026-07-25,14:00:37,Saturday,14,Y,,Sukhna Path: Golf Club ↔ Cycle Chowk,A_to_B,8879,1118,1184,0.944,OK,
+2026-07-25 14:00:38,2026-07-25,14:00:38,Saturday,14,Y,,Sukhna Path: Golf Club ↔ Cycle Chowk,B_to_A,7321,1093,1080,1.012,OK,
+2026-07-25 14:00:38,2026-07-25,14:00:38,Saturday,14,Y,,Sarovar Path: Sukhna Lake ↔ Burail Jail,A_to_B,7816,1114,1066,1.045,OK,
+2026-07-25 14:00:39,2026-07-25,14:00:39,Saturday,14,Y,,Sarovar Path: Sukhna Lake ↔ Burail Jail,B_to_A,7928,1196,1084,1.103,OK,
+2026-07-25 14:00:39,2026-07-25,14:00:39,Saturday,14,Y,,Himalaya Marg: Rock Garden ↔ ISBT 43,A_to_B,8803,1126,1097,1.026,OK,
+2026-07-25 14:00:39,2026-07-25,14:00:39,Saturday,14,Y,,Himalaya Marg: Rock Garden ↔ ISBT 43,B_to_A,8947,1107,1132,0.978,OK,
+2026-07-25 14:00:40,2026-07-25,14:00:40,Saturday,14,Y,,Jan Marg: High Court ↔ ISBT 17,A_to_B,3334,366,390,0.938,OK,
+2026-07-25 14:00:40,2026-07-25,14:00:40,Saturday,14,Y,,Jan Marg: High Court ↔ ISBT 17,B_to_A,3132,303,337,0.899,OK,
+2026-07-25 14:00:43,2026-07-25,14:00:43,Saturday,14,Y,,Jan Marg: ISBT 17 ↔ ISBT 43,A_to_B,4115,636,568,1.12,OK,
+2026-07-25 14:00:44,2026-07-25,14:00:44,Saturday,14,Y,,Jan Marg: ISBT 17 ↔ ISBT 43,B_to_A,4233,590,579,1.019,OK,
+2026-07-25 14:00:44,2026-07-25,14:00:44,Saturday,14,Y,,Vidya Path: PGI Chowk ↔ Fountain Chowk,A_to_B,5475,766,714,1.073,OK,
+2026-07-25 14:00:45,2026-07-25,14:00:45,Saturday,14,Y,,Vidya Path: PGI Chowk ↔ Fountain Chowk,B_to_A,5474,745,716,1.041,OK,
+2026-07-25 14:00:45,2026-07-25,14:00:45,Saturday,14,Y,,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,A_to_B,2620,461,411,1.122,OK,
+2026-07-25 14:00:46,2026-07-25,14:00:46,Saturday,14,Y,,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,B_to_A,2611,512,436,1.174,OK,
+2026-07-25 14:00:46,2026-07-25,14:00:46,Saturday,14,Y,,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,A_to_B,2938,420,414,1.014,OK,
+2026-07-25 14:00:46,2026-07-25,14:00:46,Saturday,14,Y,,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,B_to_A,2756,410,361,1.136,OK,
+2026-07-25 14:00:47,2026-07-25,14:00:47,Saturday,14,Y,,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,A_to_B,7398,943,883,1.068,OK,
+2026-07-25 14:00:47,2026-07-25,14:00:47,Saturday,14,Y,,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,B_to_A,7219,869,830,1.047,OK,
+2026-07-25 14:00:48,2026-07-25,14:00:48,Saturday,14,Y,,Madhya Marg: Sector 17 ↔ Railway Station,A_to_B,7206,981,945,1.038,OK,
+2026-07-25 14:00:48,2026-07-25,14:00:48,Saturday,14,Y,,Madhya Marg: Sector 17 ↔ Railway Station,B_to_A,7747,966,1031,0.937,OK,
+2026-07-25 14:00:49,2026-07-25,14:00:49,Saturday,14,Y,,Paschim Marg: Sector 25 ↔ Sector 56,A_to_B,4090,553,535,1.034,OK,
+2026-07-25 14:00:49,2026-07-25,14:00:49,Saturday,14,Y,,Paschim Marg: Sector 25 ↔ Sector 56,B_to_A,3940,489,493,0.992,OK,
+2026-07-25 14:15:25,2026-07-25,14:15:25,Saturday,14,Y,1,Madhya Marg: PGI Chowk ↔ Housing Board lights,A_to_B,11756,1470,1347,1.091,OK,
+2026-07-25 14:15:25,2026-07-25,14:15:25,Saturday,14,Y,1,Madhya Marg: PGI Chowk ↔ Housing Board lights,B_to_A,10872,1362,1360,1.001,OK,
+2026-07-25 14:15:25,2026-07-25,14:15:25,Saturday,14,Y,2,Udyog Path: PU Chowk ↔ Elante Mall,A_to_B,7111,1073,991,1.083,OK,
+2026-07-25 14:15:26,2026-07-25,14:15:26,Saturday,14,Y,2,Udyog Path: PU Chowk ↔ Elante Mall,B_to_A,8051,1163,1091,1.066,OK,
+2026-07-25 14:15:26,2026-07-25,14:15:26,Saturday,14,Y,3,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,A_to_B,8610,1482,1261,1.175,OK,
+2026-07-25 14:15:27,2026-07-25,14:15:27,Saturday,14,Y,3,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,B_to_A,10297,1643,1686,0.974,OK,
+2026-07-25 14:15:27,2026-07-25,14:15:27,Saturday,14,Y,4,Shanti Path: Sector 38W ↔ Sector 31 Lights,A_to_B,7418,976,881,1.108,OK,
+2026-07-25 14:15:28,2026-07-25,14:15:28,Saturday,14,Y,4,Shanti Path: Sector 38W ↔ Sector 31 Lights,B_to_A,7590,1095,937,1.169,OK,
+2026-07-25 14:15:28,2026-07-25,14:15:28,Saturday,14,Y,5,NH 5: Grain Market ↔ Sector 47 Chowk,A_to_B,7596,940,930,1.011,OK,
+2026-07-25 14:15:29,2026-07-25,14:15:29,Saturday,14,Y,5,NH 5: Grain Market ↔ Sector 47 Chowk,B_to_A,7551,941,972,0.968,OK,
+2026-07-25 14:15:29,2026-07-25,14:15:29,Saturday,14,Y,6,Vigyan Path: PEC Chowk ↔ Golf Club,A_to_B,4491,512,472,1.085,OK,
+2026-07-25 14:15:29,2026-07-25,14:15:29,Saturday,14,Y,6,Vigyan Path: PEC Chowk ↔ Golf Club,B_to_A,4518,521,525,0.992,OK,
+2026-07-25 14:15:30,2026-07-25,14:15:30,Saturday,14,Y,7,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,A_to_B,2481,258,274,0.942,OK,
+2026-07-25 14:15:30,2026-07-25,14:15:30,Saturday,14,Y,7,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,B_to_A,3144,399,423,0.943,OK,
+2026-07-25 14:15:31,2026-07-25,14:15:31,Saturday,14,Y,8,Madhya Marg: Khudda Lahora ↔ Matka Chowk,A_to_B,4208,682,600,1.137,OK,
+2026-07-25 14:15:31,2026-07-25,14:15:31,Saturday,14,Y,8,Madhya Marg: Khudda Lahora ↔ Matka Chowk,B_to_A,3931,567,529,1.072,OK,
+2026-07-25 14:15:32,2026-07-25,14:15:32,Saturday,14,Y,9,Madhya Marg: GMSH 16 ↔ Kalagram,A_to_B,5231,895,744,1.203,OK,
+2026-07-25 14:15:32,2026-07-25,14:15:32,Saturday,14,Y,9,Madhya Marg: GMSH 16 ↔ Kalagram,B_to_A,7158,818,822,0.995,OK,
+2026-07-25 14:15:33,2026-07-25,14:15:33,Saturday,14,Y,10,Udyog Path: Dhanas ↔ ISBT Sector 17,A_to_B,4785,790,737,1.072,OK,
+2026-07-25 14:15:33,2026-07-25,14:15:33,Saturday,14,Y,10,Udyog Path: Dhanas ↔ ISBT Sector 17,B_to_A,5507,941,919,1.024,OK,
+2026-07-25 14:15:33,2026-07-25,14:15:33,Saturday,14,Y,11,Udyog Path: ISBT Sector 17 ↔ Elante Mall,A_to_B,3274,428,383,1.117,OK,
+2026-07-25 14:15:34,2026-07-25,14:15:34,Saturday,14,Y,11,Udyog Path: ISBT Sector 17 ↔ Elante Mall,B_to_A,3428,485,451,1.075,OK,
+2026-07-25 14:15:34,2026-07-25,14:15:34,Saturday,14,Y,12,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,A_to_B,6720,898,894,1.004,OK,
+2026-07-25 14:15:35,2026-07-25,14:15:35,Saturday,14,Y,12,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,B_to_A,7109,945,950,0.995,OK,
+2026-07-25 14:15:35,2026-07-25,14:15:35,Saturday,14,Y,13,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,A_to_B,7739,1325,1103,1.201,OK,
+2026-07-25 14:15:36,2026-07-25,14:15:36,Saturday,14,Y,13,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,B_to_A,9186,1389,1327,1.047,OK,
+2026-07-25 14:15:36,2026-07-25,14:15:36,Saturday,14,Y,14,NH 5: Max Hospital ↔ ISBT Sector 43,A_to_B,4206,497,503,0.988,OK,
+2026-07-25 14:15:37,2026-07-25,14:15:37,Saturday,14,Y,14,NH 5: Max Hospital ↔ ISBT Sector 43,B_to_A,5445,663,667,0.994,OK,
+2026-07-25 14:15:37,2026-07-25,14:15:37,Saturday,14,Y,15,Sukhna Path: Golf Club ↔ Cycle Chowk,A_to_B,7421,1061,1083,0.98,OK,
+2026-07-25 14:15:37,2026-07-25,14:15:37,Saturday,14,Y,15,Sukhna Path: Golf Club ↔ Cycle Chowk,B_to_A,7321,1091,1080,1.01,OK,
+2026-07-25 14:15:38,2026-07-25,14:15:38,Saturday,14,Y,16,Sarovar Path: Sukhna Lake ↔ Burail Jail,A_to_B,7816,1126,1066,1.056,OK,
+2026-07-25 14:15:38,2026-07-25,14:15:38,Saturday,14,Y,16,Sarovar Path: Sukhna Lake ↔ Burail Jail,B_to_A,7928,1179,1084,1.088,OK,
+2026-07-25 14:15:39,2026-07-25,14:15:39,Saturday,14,Y,17,Himalaya Marg: Rock Garden ↔ ISBT 43,A_to_B,8803,1112,1097,1.014,OK,
+2026-07-25 14:15:39,2026-07-25,14:15:39,Saturday,14,Y,17,Himalaya Marg: Rock Garden ↔ ISBT 43,B_to_A,8976,1106,1138,0.972,OK,
+2026-07-25 14:15:40,2026-07-25,14:15:40,Saturday,14,Y,18,Jan Marg: High Court ↔ ISBT 17,A_to_B,3334,369,390,0.946,OK,
+2026-07-25 14:15:40,2026-07-25,14:15:40,Saturday,14,Y,18,Jan Marg: High Court ↔ ISBT 17,B_to_A,3132,300,337,0.89,OK,
+2026-07-25 14:15:40,2026-07-25,14:15:40,Saturday,14,Y,19,Jan Marg: ISBT 17 ↔ ISBT 43,A_to_B,4115,629,568,1.107,OK,
+2026-07-25 14:15:41,2026-07-25,14:15:41,Saturday,14,Y,19,Jan Marg: ISBT 17 ↔ ISBT 43,B_to_A,4233,591,579,1.021,OK,
+2026-07-25 14:15:41,2026-07-25,14:15:41,Saturday,14,Y,20,Vidya Path: PGI Chowk ↔ Fountain Chowk,A_to_B,5475,794,714,1.112,OK,
+2026-07-25 14:15:42,2026-07-25,14:15:42,Saturday,14,Y,20,Vidya Path: PGI Chowk ↔ Fountain Chowk,B_to_A,5474,747,716,1.043,OK,
+2026-07-25 14:15:42,2026-07-25,14:15:42,Saturday,14,Y,21,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,A_to_B,2620,578,411,1.406,OK,
+2026-07-25 14:15:43,2026-07-25,14:15:43,Saturday,14,Y,21,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,B_to_A,2611,500,436,1.147,OK,
+2026-07-25 14:15:43,2026-07-25,14:15:43,Saturday,14,Y,22,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,A_to_B,2939,425,414,1.027,OK,
+2026-07-25 14:15:44,2026-07-25,14:15:44,Saturday,14,Y,22,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,B_to_A,2756,403,361,1.116,OK,
+2026-07-25 14:15:44,2026-07-25,14:15:44,Saturday,14,Y,23,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,A_to_B,7398,1054,883,1.194,OK,
+2026-07-25 14:15:45,2026-07-25,14:15:45,Saturday,14,Y,23,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,B_to_A,7219,850,830,1.024,OK,
+2026-07-25 14:15:45,2026-07-25,14:15:45,Saturday,14,Y,24,Madhya Marg: Sector 17 ↔ Railway Station,A_to_B,8934,1100,1080,1.019,OK,
+2026-07-25 14:15:46,2026-07-25,14:15:46,Saturday,14,Y,24,Madhya Marg: Sector 17 ↔ Railway Station,B_to_A,7747,1059,1031,1.027,OK,
+2026-07-25 14:15:46,2026-07-25,14:15:46,Saturday,14,Y,25,Paschim Marg: Sector 25 ↔ Sector 56,A_to_B,4090,580,535,1.084,OK,
+2026-07-25 14:15:47,2026-07-25,14:15:47,Saturday,14,Y,25,Paschim Marg: Sector 25 ↔ Sector 56,B_to_A,3940,495,493,1.004,OK,
+2026-07-25 15:46:16,2026-07-25,15:46:16,Saturday,15,Y,1,Madhya Marg: PGI Chowk ↔ Housing Board lights,A_to_B,11756,1280,1347,0.95,OK,
+2026-07-25 15:46:17,2026-07-25,15:46:17,Saturday,15,Y,1,Madhya Marg: PGI Chowk ↔ Housing Board lights,B_to_A,8853,1253,1223,1.025,OK,
+2026-07-25 15:46:18,2026-07-25,15:46:18,Saturday,15,Y,2,Udyog Path: PU Chowk ↔ Elante Mall,A_to_B,7173,1038,1033,1.005,OK,
+2026-07-25 15:46:18,2026-07-25,15:46:18,Saturday,15,Y,2,Udyog Path: PU Chowk ↔ Elante Mall,B_to_A,8051,1133,1091,1.038,OK,
+2026-07-25 15:46:19,2026-07-25,15:46:19,Saturday,15,Y,3,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,A_to_B,8621,1462,1296,1.128,OK,
+2026-07-25 15:46:19,2026-07-25,15:46:19,Saturday,15,Y,3,Dakshin Marg: Daddu Majra ↔ Hallo Majra Lights,B_to_A,9083,1410,1481,0.952,OK,
+2026-07-25 15:46:20,2026-07-25,15:46:20,Saturday,15,Y,4,Shanti Path: Sector 38W ↔ Sector 31 Lights,A_to_B,7418,936,881,1.062,OK,
+2026-07-25 15:46:21,2026-07-25,15:46:21,Saturday,15,Y,4,Shanti Path: Sector 38W ↔ Sector 31 Lights,B_to_A,7590,1048,937,1.118,OK,
+2026-07-25 15:46:21,2026-07-25,15:46:21,Saturday,15,Y,5,NH 5: Grain Market ↔ Sector 47 Chowk,A_to_B,7596,911,930,0.98,OK,
+2026-07-25 15:46:22,2026-07-25,15:46:22,Saturday,15,Y,5,NH 5: Grain Market ↔ Sector 47 Chowk,B_to_A,7551,944,972,0.971,OK,
+2026-07-25 15:46:22,2026-07-25,15:46:22,Saturday,15,Y,6,Vigyan Path: PEC Chowk ↔ Golf Club,A_to_B,4491,454,472,0.962,OK,
+2026-07-25 15:46:23,2026-07-25,15:46:23,Saturday,15,Y,6,Vigyan Path: PEC Chowk ↔ Golf Club,B_to_A,4518,495,525,0.943,OK,
+2026-07-25 15:46:24,2026-07-25,15:46:24,Saturday,15,Y,7,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,A_to_B,2481,270,274,0.985,OK,
+2026-07-25 15:46:24,2026-07-25,15:46:24,Saturday,15,Y,7,Uttar Marg: Sector 2 Chowk ↔ Sukhna Lake,B_to_A,3144,401,423,0.948,OK,
+2026-07-25 15:46:24,2026-07-25,15:46:24,Saturday,15,Y,8,Madhya Marg: Khudda Lahora ↔ Matka Chowk,A_to_B,4208,530,600,0.883,OK,
+2026-07-25 15:46:25,2026-07-25,15:46:25,Saturday,15,Y,8,Madhya Marg: Khudda Lahora ↔ Matka Chowk,B_to_A,3931,487,529,0.921,OK,
+2026-07-25 15:46:25,2026-07-25,15:46:25,Saturday,15,Y,9,Madhya Marg: GMSH 16 ↔ Kalagram,A_to_B,5749,831,832,0.999,OK,
+2026-07-25 15:46:26,2026-07-25,15:46:26,Saturday,15,Y,9,Madhya Marg: GMSH 16 ↔ Kalagram,B_to_A,7158,777,822,0.945,OK,
+2026-07-25 15:46:26,2026-07-25,15:46:26,Saturday,15,Y,10,Udyog Path: Dhanas ↔ ISBT Sector 17,A_to_B,4785,722,737,0.98,OK,
+2026-07-25 15:46:27,2026-07-25,15:46:27,Saturday,15,Y,10,Udyog Path: Dhanas ↔ ISBT Sector 17,B_to_A,5507,870,919,0.947,OK,
+2026-07-25 15:46:27,2026-07-25,15:46:27,Saturday,15,Y,11,Udyog Path: ISBT Sector 17 ↔ Elante Mall,A_to_B,3274,390,383,1.018,OK,
+2026-07-25 15:46:28,2026-07-25,15:46:28,Saturday,15,Y,11,Udyog Path: ISBT Sector 17 ↔ Elante Mall,B_to_A,3428,476,451,1.055,OK,
+2026-07-25 15:46:28,2026-07-25,15:46:28,Saturday,15,Y,12,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,A_to_B,6720,877,894,0.981,OK,
+2026-07-25 15:46:29,2026-07-25,15:46:29,Saturday,15,Y,12,Dakshin Marg: DLF Mullanpur ↔ Kisan Bhawan Chowk,B_to_A,7109,943,950,0.993,OK,
+2026-07-25 15:46:29,2026-07-25,15:46:29,Saturday,15,Y,13,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,A_to_B,7733,1301,1126,1.155,OK,
+2026-07-25 15:46:30,2026-07-25,15:46:30,Saturday,15,Y,13,Dakshin Marg: Kisan Bhawan Chowk ↔ Airport Chowk,B_to_A,7973,1139,1122,1.015,OK,
+2026-07-25 15:46:30,2026-07-25,15:46:30,Saturday,15,Y,14,NH 5: Max Hospital ↔ ISBT Sector 43,A_to_B,4206,479,503,0.952,OK,
+2026-07-25 15:46:30,2026-07-25,15:46:30,Saturday,15,Y,14,NH 5: Max Hospital ↔ ISBT Sector 43,B_to_A,5445,646,667,0.969,OK,
+2026-07-25 15:46:31,2026-07-25,15:46:31,Saturday,15,Y,15,Sukhna Path: Golf Club ↔ Cycle Chowk,A_to_B,7421,1039,1083,0.959,OK,
+2026-07-25 15:46:31,2026-07-25,15:46:31,Saturday,15,Y,15,Sukhna Path: Golf Club ↔ Cycle Chowk,B_to_A,7321,1052,1080,0.974,OK,
+2026-07-25 15:46:32,2026-07-25,15:46:32,Saturday,15,Y,16,Sarovar Path: Sukhna Lake ↔ Burail Jail,A_to_B,7816,1094,1066,1.026,OK,
+2026-07-25 15:46:32,2026-07-25,15:46:32,Saturday,15,Y,16,Sarovar Path: Sukhna Lake ↔ Burail Jail,B_to_A,7928,1150,1084,1.061,OK,
+2026-07-25 15:46:32,2026-07-25,15:46:32,Saturday,15,Y,17,Himalaya Marg: Rock Garden ↔ ISBT 43,A_to_B,8803,1082,1097,0.986,OK,
+2026-07-25 15:46:33,2026-07-25,15:46:33,Saturday,15,Y,17,Himalaya Marg: Rock Garden ↔ ISBT 43,B_to_A,8947,1087,1132,0.96,OK,
+2026-07-25 15:46:33,2026-07-25,15:46:33,Saturday,15,Y,18,Jan Marg: High Court ↔ ISBT 17,A_to_B,3334,349,390,0.895,OK,
+2026-07-25 15:46:34,2026-07-25,15:46:34,Saturday,15,Y,18,Jan Marg: High Court ↔ ISBT 17,B_to_A,3132,295,337,0.875,OK,
+2026-07-25 15:46:34,2026-07-25,15:46:34,Saturday,15,Y,19,Jan Marg: ISBT 17 ↔ ISBT 43,A_to_B,4115,608,568,1.07,OK,
+2026-07-25 15:46:34,2026-07-25,15:46:34,Saturday,15,Y,19,Jan Marg: ISBT 17 ↔ ISBT 43,B_to_A,4233,577,579,0.997,OK,
+2026-07-25 15:46:35,2026-07-25,15:46:35,Saturday,15,Y,20,Vidya Path: PGI Chowk ↔ Fountain Chowk,A_to_B,5475,692,714,0.969,OK,
+2026-07-25 15:46:35,2026-07-25,15:46:35,Saturday,15,Y,20,Vidya Path: PGI Chowk ↔ Fountain Chowk,B_to_A,5474,698,716,0.975,OK,
+2026-07-25 15:46:36,2026-07-25,15:46:36,Saturday,15,Y,21,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,A_to_B,2620,478,411,1.163,OK,
+2026-07-25 15:46:36,2026-07-25,15:46:36,Saturday,15,Y,21,Purv Marg: Tansport Chowk  ↔ Tribune Chowk,B_to_A,2611,532,436,1.22,OK,
+2026-07-25 15:46:37,2026-07-25,15:46:37,Saturday,15,Y,22,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,A_to_B,2939,414,414,1.0,OK,
+2026-07-25 15:46:37,2026-07-25,15:46:37,Saturday,15,Y,22,Chandi Path: Sabzi Mandi Chowk  ↔ GMCH 32,B_to_A,2756,402,361,1.114,OK,
+2026-07-25 15:46:38,2026-07-25,15:46:38,Saturday,15,Y,23,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,A_to_B,7398,930,883,1.053,OK,
+2026-07-25 15:46:38,2026-07-25,15:46:38,Saturday,15,Y,23,Udyan Path: Secretariat Chowk  ↔ Furniture Chowk,B_to_A,7219,827,830,0.996,OK,
+2026-07-25 15:46:39,2026-07-25,15:46:39,Saturday,15,Y,24,Madhya Marg: Sector 17 ↔ Railway Station,A_to_B,7206,1117,945,1.182,OK,
+2026-07-25 15:46:39,2026-07-25,15:46:39,Saturday,15,Y,24,Madhya Marg: Sector 17 ↔ Railway Station,B_to_A,7518,991,985,1.006,OK,
+2026-07-25 15:46:40,2026-07-25,15:46:40,Saturday,15,Y,25,Paschim Marg: Sector 25 ↔ Sector 56,A_to_B,4090,512,535,0.957,OK,
+2026-07-25 15:46:40,2026-07-25,15:46:40,Saturday,15,Y,25,Paschim Marg: Sector 25 ↔ Sector 56,B_to_A,3940,486,493,0.986,OK,
