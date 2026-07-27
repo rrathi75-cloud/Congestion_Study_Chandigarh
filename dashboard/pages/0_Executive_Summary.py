@@ -73,7 +73,7 @@ page_header(
     subtitle=(
         f"Live evidence base for the audit of urban mobility in Chandigarh · "
         f"{AUDIT_WINDOW_START.date()} → {AUDIT_WINDOW_END.date()} · "
-        "38 critical corridors · 30-minute polling via Google Routes API v2."
+        "25 critical corridors · 30-minute polling via Google Routes API v2."
     ),
     eyebrow="Executive Summary",
 )
@@ -201,7 +201,7 @@ kpi_row([
     ),
     KPI(
         label="Corridor coverage",
-        value=f"{stats.corridors_covered} / 38",
+        value=f"{stats.corridors_covered} / 25",
         sublabel="critical corridors active",
         accent="emerald",
     ),
