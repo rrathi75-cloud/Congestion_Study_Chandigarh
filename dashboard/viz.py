@@ -636,7 +636,7 @@ def mini_map(display: pd.DataFrame, top_n: int = 5,
     """
     if display.empty:
         return pdk.Deck(layers=[], initial_view_state=pdk.ViewState(
-            longitude=85.13, latitude=25.605, zoom=11.2,
+            longitude=76.77, latitude=30.733, zoom=11.5,
         ))
     df = display.copy()
     df["is_top"] = df["rank"] <= top_n
@@ -697,7 +697,7 @@ def mini_map(display: pd.DataFrame, top_n: int = 5,
     return pdk.Deck(
         layers=layers,
         initial_view_state=pdk.ViewState(
-            longitude=85.13, latitude=25.605, zoom=11.2, pitch=0, bearing=0,
+            longitude=76.77, latitude=30.733, zoom=11.5, pitch=0, bearing=0,
         ),
         map_style="light_no_labels",
         tooltip=tooltip,
