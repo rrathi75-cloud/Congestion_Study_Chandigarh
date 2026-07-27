@@ -343,7 +343,7 @@ callout(findings_html, kind="insight",
 st.markdown("### Where peak-hour congestion is concentrated")
 st.caption(
     "The five most-congested corridors are drawn in their PHCI colour — "
-    "rank 1 is the thickest line, tapering down to rank 5. The 33 remaining "
+    "rank 1 is the thickest line, tapering down to rank 5. The remaining "
     "corridors are faded for geographic context. Hover any line for the "
     "corridor name and PHCI."
 )
