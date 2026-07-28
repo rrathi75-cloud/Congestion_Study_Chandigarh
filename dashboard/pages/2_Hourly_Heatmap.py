@@ -94,7 +94,7 @@ threshold_w = GATING["heatmap_weekend"]
 if wkend_days < threshold_w.min_n:
     st.info(
         "Weekend heatmap unlocks once the first weekend day of observations is "
-        "collected. First Saturday in the audit window: **2026-05-16**."
+        "collected. First Saturday in the audit window: **2026-08-01**."
     )
 elif wkend_days < threshold_w.stable_n:
     fig = hourly_heatmap(
