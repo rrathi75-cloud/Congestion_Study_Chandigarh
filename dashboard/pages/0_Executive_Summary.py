@@ -195,8 +195,8 @@ kpi_row([
     ),
     KPI(
         label="Days observed",
-        value=f"{stats.days_covered} / 14",
-        sublabel="of the 14-day audit window",
+        value=f"{stats.days_covered} / 16",
+        sublabel="of the 16-day audit window",
         accent="indigo",
     ),
     KPI(
