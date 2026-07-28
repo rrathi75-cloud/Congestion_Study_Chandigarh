@@ -43,7 +43,7 @@ minutes how long the drive currently takes, compares that to how long the
 drive *would* take with zero traffic, and stores the answer.
 
 So far we have **{stats.total_observations:,} measurements across
-{stats.days_covered} day(s)** in the 14-day audit window. From these, the
+{stats.days_covered} day(s)** in the 16-day audit window. From these, the
 dashboard produces ranked lists, heatmaps, and a map that show **which roads of
 Chandigarh are congested, when, and by how much** ."
     """
