@@ -45,9 +45,7 @@ drive *would* take with zero traffic, and stores the answer.
 So far we have **{stats.total_observations:,} measurements across
 {stats.days_covered} day(s)** in the 14-day audit window. From these, the
 dashboard produces ranked lists, heatmaps, and a map that show **which roads of
-Chandigarh are congested, when, and by how much** — replacing "Bailey Road feels
-congested" with "Bailey Road takes 11 minutes at 6 AM and 36 minutes at
-6:30 PM, every weekday."
+Chandigarh are congested, when, and by how much** ."
     """
 )
 
