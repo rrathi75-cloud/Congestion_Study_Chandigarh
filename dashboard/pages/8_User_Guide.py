@@ -240,7 +240,7 @@ The sidebar shows a small pill for each metric:
 - **Stable** — sample size has crossed the audit-defensibility threshold. Cite without caveat.
 
 Pills update automatically as the collector adds measurements every 30 minutes.
-By 26 May 2026 (end of the audit window) every metric should be Stable.
+By 11 August 2026 (end of the audit window) every metric should be Stable.
     """
 )
 
