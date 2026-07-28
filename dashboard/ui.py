@@ -987,7 +987,7 @@ def render_sidebar(df, ranking, stats) -> None:
 
     st.sidebar.markdown(
         '<div class="chandigarh-side-title">Chandigarh Mobility Audit</div>'
-        '<div class="chandigarh-side-sub">Audit window · 13–26 May 2026</div>',
+        '<div class="chandigarh-side-sub">Audit window · 27 July – 11 August 2026</div>',
         unsafe_allow_html=True,
     )
     sidebar_peak_window_control()
