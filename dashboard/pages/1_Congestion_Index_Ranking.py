@@ -1,6 +1,6 @@
 """Page 1 — Congestion Index Ranking.
 
-Brief output #1: a highest- to lowest-PHCI ranking of 38 corridors with
+Brief output #1: a highest- to lowest-PHCI ranking of 25 corridors with
 peak-hour ratios, plus the secondary "absolute minutes lost" ranking that
 contextualises short-corridor ratios.
 """

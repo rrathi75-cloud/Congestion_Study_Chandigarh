@@ -288,5 +288,5 @@ def map_narrative(ranking: pd.DataFrame, top_n: int = 3) -> str:
         "The thickest, most-saturated lines on this map are the priority corridors:"
         + "<ul>" + "".join(items) + "</ul>"
         "Hover any line for full statistics. Faded lines are the remaining "
-        f"{38 - top_n} corridors, drawn for geographic context."
+        f"{25 - top_n} corridors, drawn for geographic context."
     )

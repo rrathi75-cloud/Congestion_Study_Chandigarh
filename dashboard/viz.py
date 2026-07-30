@@ -222,7 +222,7 @@ def hourly_heatmap(
 
 
 def ranking_bar(ranking: pd.DataFrame, metric: str = "phci",
-                title: str = "Peak-Hour Congestion Index — 38 corridors",
+                title: str = "Peak-Hour Congestion Index — 25 corridors",
                 max_name_len: int = 55) -> go.Figure:
     """Horizontal bar chart of corridors ranked by PHCI (or any chosen metric).
 
@@ -231,7 +231,7 @@ def ranking_bar(ranking: pd.DataFrame, metric: str = "phci",
     hatched and asterisked.
 
     `max_name_len` controls how aggressively corridor names are truncated.
-    The full-page chart packs 38 rows and uses the default 55; the compact
+    The full-page chart packs 25 rows and uses the default 55; the compact
     Executive-Summary version passes a larger value since it only shows the
     top 6 and has more vertical breathing room.
     """
@@ -626,7 +626,7 @@ def mini_map(display: pd.DataFrame, top_n: int = 5,
              show_labels: bool = False) -> pdk.Deck:
     """Compact pydeck map showing the top N most-congested corridors with context.
 
-    All 38 corridors are drawn faintly so the geographic context is preserved;
+    All 25 corridors are drawn faintly so the geographic context is preserved;
     the top N are emphasised with full opacity, thicker lines, and a small
     rank badge at the line's midpoint.
 

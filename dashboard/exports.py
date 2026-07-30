@@ -112,7 +112,7 @@ def build_excel_annexure(df: pd.DataFrame, rep: dict) -> bytes:
                 str(AUDIT_WINDOW_START.date()) + " 00:00 IST",
                 str(AUDIT_WINDOW_END.date()) + " 23:59 IST",
                 "Every 30 minutes",
-                "76 (38 corridors × 2 directions)",
+                "50 (25 corridors × 2 directions)",
                 stats.first_timestamp,
                 stats.last_timestamp,
                 stats.days_covered,

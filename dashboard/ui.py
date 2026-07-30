@@ -758,7 +758,7 @@ def slb_indicator_strip(items: list[SLBIndicator],
                             "MoUD/NUTP Service Level Benchmarks, computed on the "
                             "guideline peak window (06–10 / 16–20 weekday IST). "
                             "These are network-wide medians taken across all eight "
-                            "peak hours and all 38 corridors, plus a 1.5× ‘congested’ "
+                            "peak hours and all 25 corridors, plus a 1.5× ‘congested’ "
                             "threshold — together they structurally dilute the "
                             "concentrated peak-hour congestion residents experience. "
                             "Beneath each framework value, the corridor-level reality "
