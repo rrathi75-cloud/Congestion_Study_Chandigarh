@@ -35,7 +35,7 @@ PROJECT_DIR = Path(__file__).resolve().parent.parent
 CORRIDORS_FILE = PROJECT_DIR / "corridors.csv"
 HOLIDAYS_FILE = PROJECT_DIR / "holidays_chandigarh.csv"
 
-AUDIT_WINDOW_START = pd.Timestamp("2026-07-25")
+AUDIT_WINDOW_START = pd.Timestamp("2026-07-27")
 AUDIT_WINDOW_END = pd.Timestamp("2026-08-11")
 
 EXPECTED_BATCHES_PER_DAY = 48  # cron every 30 min
