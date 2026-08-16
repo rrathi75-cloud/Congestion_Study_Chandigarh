@@ -187,14 +187,11 @@ st.markdown(
     "other page excludes these rows."
 )
 st.caption(
-    "Note: 56 calls failed during a one-off manual test at 2026-05-12 20:47 IST "
-    "— before the audit window opened — with the error `Timestamp must be set to "
-    "a future time`. The bug (`datetime.now()` evaluated client-side instead of "
+    "Note: The bug (`datetime.now()` evaluated client-side instead of "
     "with a small future offset) was fixed in `collect_travel_times.py` before "
     "cron started. Those rows are excluded from every dashboard surface because "
-    "they pre-date the audit window. They reflect the original 28-corridor set "
-    "(28 × 2 directions = 56) and do not involve the corridors added on "
-    "2026-05-20 (see Section 7 below)."
+    "they pre-date the audit window. They reflect the original 25-corridor set "
+    "(25 × 2 directions = 50)."
 )
 
 if stats.fail_count > 0:
