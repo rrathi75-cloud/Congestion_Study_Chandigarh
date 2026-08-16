@@ -394,7 +394,7 @@ def reliability_chart(bti_df: pd.DataFrame, metric: str = "bti") -> go.Figure:
         xaxis=dict(range=[0, x_upper], title=metric.upper()),
         plot_bgcolor="white", paper_bgcolor="white",
         margin=dict(l=340, r=80, t=60, b=40),
-        # No height cap: with 56 corridor-direction rows Plotly will otherwise
+        # No height cap: with 50 corridor-direction rows Plotly will otherwise
         # auto-thin the y-tick labels and silently hide every other corridor
         # name. 22px per row + an explicit tickmode guarantees every label
         # renders.

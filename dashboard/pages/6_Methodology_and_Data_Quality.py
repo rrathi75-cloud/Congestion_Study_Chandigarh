@@ -3,7 +3,7 @@
 This is the audit-defensibility page for senior reviewer review. Seven sections:
   1. Formulas (rendered as LaTeX)
   2. Coverage matrix (corridor × date)
-  3. FAIL log (with the 56 bootstrap fails surfaced transparently)
+  3. FAIL log (with the 50 bootstrap fails surfaced transparently)
   4. Distance drift table (defends against "did Google measure the same path?")
   5. Reproducibility signature (MD5 hashes + pinned versions)
   6. Triangulation hooks (Citizen Survey, JPV, peer-city placeholders)
